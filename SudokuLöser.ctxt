@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SudokuL\u00F6ser
+comment1.params=block
+comment1.target=SudokuL\u00F6ser(Block[][])
+comment2.params=reihe\ spalte\ zahl
+comment2.target=boolean\ \u00FCberpr\u00FCfen(int,\ int,\ int)
+comment3.params=
+comment3.target=void\ zur\u00FCck()
+comment4.params=
+comment4.target=void\ l\u00F6sen()
+numComments=5
